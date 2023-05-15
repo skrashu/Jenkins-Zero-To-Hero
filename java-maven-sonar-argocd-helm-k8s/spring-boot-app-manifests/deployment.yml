@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: skrashu/fyou:7
+        image: skrashu/ultimate-cicd:7
         ports:
         - containerPort: 8080        
